@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kinaxis-demo/static/css/main.d09b49f8.css",
+    "main.js": "/kinaxis-demo/static/js/main.65e3f9d9.js",
+    "static/js/787.18f3db65.chunk.js": "/kinaxis-demo/static/js/787.18f3db65.chunk.js",
+    "index.html": "/kinaxis-demo/index.html",
+    "main.d09b49f8.css.map": "/kinaxis-demo/static/css/main.d09b49f8.css.map",
+    "main.65e3f9d9.js.map": "/kinaxis-demo/static/js/main.65e3f9d9.js.map",
+    "787.18f3db65.chunk.js.map": "/kinaxis-demo/static/js/787.18f3db65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b49f8.css",
+    "static/js/main.65e3f9d9.js"
+  ]
+}
