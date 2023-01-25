@@ -1,8 +1,8 @@
 import { render, screen, waitFor } from '@testing-library/react';
-import { CalendarComponent } from './Calendar';
+import { CalendarComponent } from '../Calendar';
 import userEvent from '@testing-library/user-event';
 
-import type { Favourites } from '../types';
+import type { Favourites } from '../../types';
 
 beforeEach(() => {
     // Globally mock fetch.

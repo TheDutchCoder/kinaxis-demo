@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import { CheckBoxComponent } from './CheckBox';
+import { CheckBoxComponent } from '../CheckBox';
 
 // The checkbox should be rendered as unchecked by default
 test('renders the checkbox', () => {

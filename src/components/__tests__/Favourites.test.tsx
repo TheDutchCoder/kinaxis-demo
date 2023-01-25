@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import { FavouritesComponent } from './Favourites';
+import { FavouritesComponent } from '../Favourites';
 import { within } from '@testing-library/dom';
 
 // The favourites list should be rendered as empty
